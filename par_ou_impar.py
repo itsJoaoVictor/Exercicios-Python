@@ -7,7 +7,6 @@ if p_i == 0:{
     print("Este número é par")
     
 }
-
 else:{
     print("Este número é ímpar")
 }
